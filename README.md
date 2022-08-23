@@ -1,16 +1,9 @@
 # instroscope
 
-A new Flutter project.
+A Flutter App where retailers can sell Medicinal Instruments or other patients can help another by giving information about various Medicinal Instruments that are required in checking up a particular disease.
+As There's a lack of awareness about various instruments that can help patients to identify which kind of disease they are suffering from, this App will act as a bridge to connect them.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+I have suffered the same kind of situation so I'm coming up with this idea.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Snapshots coming soon...
